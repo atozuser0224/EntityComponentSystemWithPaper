@@ -1,0 +1,4 @@
+name: EntityComponentSystem
+version: '1.0-SNAPSHOT'
+main: org.gang.entityComponentSystem.EntityComponentSystem
+api-version: '1.21'
